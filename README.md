@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there, I'm Joaquín.<br>👨‍💻 I Love technology, and learning every day of this one.<br>🎸 My second passion is the guitar and music.
+👋 Hello there, I'm Joaquín.<br>👨‍💻 I Love technology, and AI.<br>🎸 My second passion is the guitar and music.
 
 
 ## 🌐 Socials:
