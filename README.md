@@ -9,11 +9,6 @@ Full Stack Developer with 4 years of experience and Founder that MixAI AI-powere
 
 ### 🔥 Featured Projects
 
-#### 🌳 The Reserve
-3D multiplayer game to consientizar sobre el calentamiento global
-- Built with Unity and Blender
-- Focus: multiplayer system
-
 #### 💧 Aqua Stark
 Videogame to use web3 ecosystem
 - Built with Unity and Blender
