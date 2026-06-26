@@ -1,17 +1,5 @@
-# 💫 About Me
-
 <div align="center">
-
-👋 Hi, I'm **Joaquín Alberto Pappa**  
-
-💻 Full Stack Software Engineer • AI Engineer • Founder
-
-🚀 Building AI products that solve real-world problems.
-
-🤖 Passionate about Artificial Intelligence, and Tecnhology.
-
-🎸 Outside of coding, I enjoy playing guitar and producing music.
-
+<img width="1536" height="1024" alt="helloGithub" src="https://github.com/user-attachments/assets/95b9d79e-c861-4280-9fb8-0dc52623beb7" />
 </div>
 
 ---
