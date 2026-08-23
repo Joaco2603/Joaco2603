@@ -22,18 +22,6 @@
 - ⚡ Passionate about scalable backend systems, cloud infrastructure and developer tools
 - 🌍 Always learning new technologies and contributing to open source
 
----
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaco2603&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaco2603&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
-
-</p>
-
----
-
 # 🔥 Featured Projects
 
 ### 🎵 MixAI
